@@ -1,0 +1,17 @@
+# 编译产物（EXE 发布到 GitHub Release，不入库）
+.output/
+
+# 其他常见构建/临时文件
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.aps
+*.user
+*.suo
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
